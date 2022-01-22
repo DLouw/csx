@@ -18,7 +18,7 @@
     "jsonwebtoken": "^8.3.0",
     "moment": "^2.22.2",
     "mqtt": "^3.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "pg": "^7.4.3",
     "uuid": "^3.3.2"
   },
